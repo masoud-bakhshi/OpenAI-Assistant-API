@@ -3,7 +3,7 @@
 
 ## Overview
 
-Thank you for visiting the OpenAI GPT-4 Chat Application repository. This state-of-the-art chat interface utilizes the cutting-edge capabilities of OpenAI's GPT-4 model, designated as "gpt-4-1106-preview". Explore how human-AI interaction is redefined through engaging dialogue in this platform imbued with the power of artificial intelligence.
+The Assistant API from OpenAI marks a significant advancement in the realm of artificial intelligence, offering an array of features designed to streamline business processes and enhance decision-making.
 
 ## Key Features
 
@@ -41,7 +41,6 @@ Environment Configuration:
 
 In the root directory, create a .env file and input your OpenAI API credentials as follows:
 
-plaintext
 
 OPENAI_API_KEY=<your_openai_api_key>
 
@@ -60,3 +59,7 @@ We thrive on community involvement and we value your input immensely. There are 
     Issue Reporting: If you come across any bugs or issues, feel free to open a new issue on our GitHub repository.
     Enhancement Suggestions: Got an innovative idea or recommendation? Share your thoughts via a new issue.
     Direct Code Contributions: Contribute code by forking the repository, committing your updates, and creating a pull request for integration.
+
+# picture
+
+![assistant-api](https://github.com/masoud-bakhshi/OpenAI-Assistant-API/blob/main/assistant.png)
